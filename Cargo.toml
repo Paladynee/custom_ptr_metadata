@@ -1,6 +1,10 @@
 [package]
-name = "pwese"
-version = "0.1.0"
+description = "Pointers with custom metadata attached, supports `(ptr, usize, usize)`."
 edition = "2024"
+license = "MIT"
+name = "custom_ptr_metadata"
+repository = "https://github.com/Paladynee/custom_ptr_metadata"
+version = "0.1.0"
+
 
 [dependencies]

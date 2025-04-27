@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "pwese"
+name = "custom_ptr_metadata"
 version = "0.1.0"
